@@ -15,7 +15,7 @@ streamlit run app.py
 
 本地 Git 仓库已初始化并完成首次提交。按以下步骤推送到 GitHub：
 
-### 方式一：使用 GitHub CLI（推荐）
+### 方式一：使用 GitHub CLI
 
 在终端进入项目目录，依次执行：
 
@@ -34,7 +34,7 @@ gh repo create 团会 --public --source=. --remote=origin --push --description "
 
 > 仓库名为 `团会`；若 GitHub 上已有同名仓库，换一个即可。
 
-### 方式二：在网页手动创建
+### 方式二：在网页 GUI 创建（推荐）
 
 1. 打开 [github.com/new](https://github.com/new)，新建空仓库（不要勾选 README）
 2. 在终端执行（将 `你的用户名` 和 `仓库名` 替换为实际值）：
