@@ -9,7 +9,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-浏览器打开 `http://localhost:8501`，在侧边栏填写接口密钥即可开始。
+浏览器打开 `http://127.10.8.1:8501`，在侧边栏填写接口密钥即可开始。
 
 ## 上传到 GitHub
 
